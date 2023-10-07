@@ -1,6 +1,7 @@
 Deep Spatial-Spectral Joint-Sparse Prior Encoding Network for Hyperspectral Target Detection
 
 The python code implementation of the paper "Deep Spatial-Spectral Joint-Sparse Prior Encoding Network for Hyperspectral Target Detection"
+![image](https://github.com/Jiahuiqu/JSPEN/assets/78287811/4b1ad9cb-84a7-4f97-b5a2-32f42e8a3852)
 
 ### Requirements
     Ubuntu 18.04 cuda 11.0
