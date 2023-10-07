@@ -7,8 +7,8 @@ The python code implementation of the paper "Deep Spatial-Spectral Joint-Sparse 
     Python 3.7 Pytorch 1.11
 ### Usage
 ## Brief description
-    dataset floder stores training and testing dataset.
-    model floder stores the pretrained model for Texas Coast dataset.
+dataset floder stores training and testing dataset.
+model floder stores the pretrained model for Texas Coast dataset.
 
 ## training
     run the train.py include train_background and train_target
