@@ -18,7 +18,7 @@ model floder stores the pretrained model for Texas Coast dataset.
     run the test.py to generate the loss map
 
 ### Citation
-
+```
 @ARTICLE{10549817,
   author={Dong, Wenqian and Wu, Xiaoyang and Qu, Jiahui and Gamba, Paolo and Xiao, Song and Vizziello, Anna and Li, Yunsong},
   journal={IEEE Transactions on Cybernetics}, 
@@ -29,3 +29,4 @@ model floder stores the pretrained model for Texas Coast dataset.
   pages={7780-7792},
   keywords={Object detection;Hyperspectral imaging;Adaptation models;Optimization;Training;Linear programming;Feature extraction;Hyperspectral target detection;interpretability;joint-sparse;model-encoding network},
   doi={10.1109/TCYB.2024.3403729}}
+```
